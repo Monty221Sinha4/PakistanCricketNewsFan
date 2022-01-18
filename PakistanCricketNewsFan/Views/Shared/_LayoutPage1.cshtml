@@ -9,9 +9,21 @@
     <title>@ViewBag.Pakistan</title>
 </head>
 <body>
-    <div style="background-color:green">
+    <div style="background-color:black">
         <img src="~/Images/Pakis an.jpg" width="100"  height="200"/>
     </div>
+    <div style="background-color:black">
+        <div style="color:green">
+            <nav style="color:blue">
+                @Html.ActionLink("Home", "Home", "Home")
+                @Html.ActionLink("Gallery", "Gallery", "Home")
+                @Html.ActionLink("History", "History", "Home")
+                @Html.ActionLink("Clips", "Clips", "Home")
+                @Html.ActionLink("Squad", "Squad", "Home")
+            </nav>
+        </div>
+    </div>
+
     <div>
         @RenderBody()
     </div>

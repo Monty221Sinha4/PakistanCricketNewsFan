@@ -17,7 +17,11 @@ namespace PakistanCricketNewsFan.Controllers
         {
             return View();
         }
-        public ActionResult CurrentTeam()
+        public ActionResult Squad()
+        {
+            return View();
+        }
+        public ActionResult Clips()
         {
             return View();
         }

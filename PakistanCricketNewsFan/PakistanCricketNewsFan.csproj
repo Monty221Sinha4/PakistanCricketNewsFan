@@ -109,7 +109,14 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\ContentStyle.css" />
     <Content Include="Global.asax" />
+    <Content Include="Images\2007 India.jfif" />
+    <Content Include="Images\Imran Kah 1992.jpg" />
+    <Content Include="Images\Imran Khan 1992.jpg" />
+    <Content Include="Images\Imrna Kahn 1992.jpg" />
+    <Content Include="Images\Mohammad Crciket 1.jpg" />
     <Content Include="Images\Pakis an.jpg" />
+    <Content Include="Images\Pakistan 1.jfif" />
+    <Content Include="Images\Pakistan dj.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
